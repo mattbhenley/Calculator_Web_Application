@@ -1,5 +1,5 @@
 # Calculator_Web_Application
-A web based calculator with html, node.js, and express. js. 
+A web based calculator with html, node.js, and express. js
 
 "name": "calulator",
   "version": "1.0.0",
